@@ -1,0 +1,13 @@
+body
+{
+    background: skyblue;
+    text-align: center;
+}
+li{
+    font-size: 30px;
+}
+
+li:hover{
+    font-size: 30px;
+    text-decoration: line-through;
+}
